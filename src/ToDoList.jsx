@@ -39,7 +39,7 @@ function ToDoList(){
                         <span className="text">{task}</span>
                         <button className="delete-button"
                         onClick={()=>deleteTask(index)}>
-                            <img src="../items/1017530.png" alt="basurero" />
+                            <img src="https://cdn-icons-png.freepik.com/512/1017/1017530.png" alt="basurero" />
                         </button>
                     </li>
                 )}
